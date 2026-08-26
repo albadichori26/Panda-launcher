@@ -14,4 +14,3 @@ dependencyResolutionManagement {
 }
 rootProject.name = "Panda Launcher"
 include ':app'
-
