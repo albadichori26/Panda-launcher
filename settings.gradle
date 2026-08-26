@@ -1,4 +1,4 @@
-name: Build Panda Launcher APK
+name:Panda Launcher APK
 
 on:
   push:
